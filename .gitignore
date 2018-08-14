@@ -1,0 +1,14 @@
+# Output library directory
+/lib/
+
+## Ignore Visual Studio settings files and build results
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+# User-specific files
+*.user
+
+# Build results
+bin/
+obj/
