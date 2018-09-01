@@ -1,4 +1,4 @@
-# PowerShell.GetDuplicates
+# PSDuplicates
 
 > **Note:** This module is a work in progress!
 

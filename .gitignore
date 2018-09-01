@@ -1,5 +1,5 @@
 # Output library directory
-/GetDuplicates/lib/
+/src/lib/
 
 ## Ignore Visual Studio settings files and build results
 
